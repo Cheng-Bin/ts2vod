@@ -1,0 +1,25 @@
+{
+  "name": "ts2vod",
+  "version": "1.0.0",
+  "description": "*.ts file merge to *.m3u8(VOD)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheng-Bin/ts2vod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheng-Bin/ts2vod/issues"
+  },
+  "homepage": "https://github.com/Cheng-Bin/ts2vod#readme",
+  "dependencies": {
+    "asyncblock": "^2.2.8",
+    "m3u": "0.0.2"
+  }
+}
